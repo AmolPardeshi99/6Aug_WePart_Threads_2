@@ -1,0 +1,2 @@
+rootProject.name = "6Aug_WePart_Threads_2"
+include ':app'
